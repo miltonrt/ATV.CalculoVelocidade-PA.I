@@ -1,6 +1,7 @@
 # actjsvfe
 JavaScript "P.A."
 
+
 Velocidade Média: VM (Velocidade Média) = D (Distância) / T (Tempo)
 
 Função MUV: V0 (Velocidade Final)  = Velocidade Inicial (Aceleração * Tempo)
